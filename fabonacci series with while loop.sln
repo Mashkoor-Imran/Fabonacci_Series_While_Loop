@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fabonacci series with while loop", "fabonacci series with while loop\fabonacci series with while loop.csproj", "{2FC69C98-5E40-44CC-A818-8995D5F6435B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FC69C98-5E40-44CC-A818-8995D5F6435B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC69C98-5E40-44CC-A818-8995D5F6435B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC69C98-5E40-44CC-A818-8995D5F6435B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC69C98-5E40-44CC-A818-8995D5F6435B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87797F42-6D91-4FAE-9499-99C70BC652AA}
+	EndGlobalSection
+EndGlobal
